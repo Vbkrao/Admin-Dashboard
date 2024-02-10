@@ -1,0 +1,31 @@
+
+[
+    {
+      "id": "1",
+      "name": "Patrica Taylor",
+      "nickName":"Jackson",
+      "age": 21,
+      "gender": "Female",
+      "phone": "1234567890",
+      "email": "h.evlkqcxcc@biqivpl.ky"
+    },
+    {
+      "id": "2",
+      "name": "Susan Clarke",
+      "nickName":"Rodriguez",
+      "age": 25,
+      "gender": "Female",
+      "phone": "9876543210",
+      "email": "jane@example.com"
+    },
+    {
+        "id": "3",
+        "name": "Frank Walker",
+        "nickName":"Rodriguez",
+        "age": 25,
+        "gender": "Female",
+        "phone": "9876543210",
+        "email": "jane@example.com"
+      }
+  ]
+  
